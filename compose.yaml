@@ -1,0 +1,6 @@
+﻿services:
+  semestrovka:
+    image: semestrovka
+    build:
+      context: .
+      dockerfile: Semestrovka/Dockerfile
