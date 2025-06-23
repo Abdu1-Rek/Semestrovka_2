@@ -1,0 +1,67 @@
+﻿@model Application.ViewModels.DoctorViewModel
+
+@{
+	Layout = "Layout";
+}
+	<!---page Title --->
+	<section class="bg-img pt-150 pb-20" data-overlay="7" style="background-image: url(../images/front-end-img/background/bg-8.jpg);">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="text-center">						
+						<h2 class="page-title text-white">Doctor</h2>
+						<ol class="breadcrumb bg-transparent justify-content-center">
+							<li class="breadcrumb-item"><a href="#" class="text-white-50"><i class="mdi mdi-home-outline"></i></a></li>
+							<li class="breadcrumb-item text-white active" aria-current="page">Doctor</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--Page content -->
+	
+	<section class="py-50" style="background-image: url(../images/front-end-img/bg-1.png); background-position: bottom center; background-size: cover;">
+		<div class="container">
+			 <div class="row">
+				<div class="col-12">
+					<div class="text-center mb-50">
+						<h2 class="mb-10 fw-500 5">Meet Our Qualified Doctors</h2>
+					</div>
+				</div>
+			</div>
+			<div class="row pt-20 align-items-center justify-content-center">
+				@foreach (var doctor in @Model.Doctors)
+				{
+					<div class="col-lg-4 col-sm-6 sm-mb-30">
+						<div class="team team-round-shadow">
+							<div class="team-photo">
+								<img class="img-fluid mx-auto" src="../images/front-end-img/team-6.jpg" alt="">
+							</div>
+							<div class="team-description">
+								<div class="team-info">
+									<h3 class="fw-500"><a href="#">@doctor.Name</a></h3>
+								</div>
+								<hr class="my-3">
+								<div class="team-contact">
+									<p class="text-primary mb-15">@doctor.Position</p>
+									<p></p>
+								</div>
+								<div>
+									<ul class="list-unstyled d-flex gap-items-1 justify-content-center">
+										<li class="waves-effect waves-circle btn btn-social-icon btn btn-circle btn-facebook"><a href="#"><i class="fa fa-facebook text-white"></i></a></li>
+										<li class="waves-effect waves-circle btn btn-social-icon btn btn-circle btn-twitter"><a href="#"><i class="fa fa-twitter text-white"></i></a></li>
+										<li class="waves-effect waves-circle btn btn-social-icon btn btn-circle btn-linkedin"><a href="#"><i class="fa fa-linkedin text-white"></i></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				}
+
+			</div>
+		</div>
+	</section>
+	
+	
+	

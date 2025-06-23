@@ -1,0 +1,15 @@
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\bin\Debug\net9.0\DTO.deps.json
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\bin\Debug\net9.0\DTO.runtimeconfig.json
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\bin\Debug\net9.0\DTO.dll
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\bin\Debug\net9.0\DTO.pdb
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.AssemblyInfoInputs.cache
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.AssemblyInfo.cs
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.sourcelink.json
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.dll
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\refint\DTO.dll
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.pdb
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\DTO.genruntimeconfig.cache
+C:\Users\emirh\OneDrive\Рабочий стол\Новая папка\Semestrovka_2\DTO\obj\Debug\net9.0\ref\DTO.dll
